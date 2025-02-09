@@ -8,6 +8,9 @@
 
 int main(void)
 {
+	while(1){
 	printf("Hello World! %s\n", CONFIG_BOARD);
+	printf("Hi! %s\n", CONFIG_BOARD);
+	}
 	return 0;
 }
