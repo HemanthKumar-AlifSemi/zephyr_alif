@@ -9,5 +9,6 @@
 int main(void)
 {
 	printf("Hello World! %s\n", CONFIG_BOARD);
+	printf("Hi Test! %s\n", CONFIG_BOARD);
 	return 0;
 }
